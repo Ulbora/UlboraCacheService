@@ -1,7 +1,7 @@
 Ulbora Cache Service
 ==============
 
-An in-memory cache micro service based on freecache https://github.com/coocood/freecache
+An in-memory cache micro service based on freecache https://github.com/coocood/freecache.
 Designed for use as a linked Docker container; therefore has no security added.
 
 

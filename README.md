@@ -1,7 +1,7 @@
 Ulbora Cache Service
 ==============
 
-An in-memory cache micro service
+An in-memory cache micro service based on freecache https://github.com/coocood/freecache
 
 
 ## Headers

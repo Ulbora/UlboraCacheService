@@ -132,3 +132,10 @@ Example Response
 
 ```
 
+# Docker use
+
+```
+docker run --network=ulbora_bridge --name cache --log-opt max-size=50m --restart=always -d ulboralabs/cache sh
+
+```
+

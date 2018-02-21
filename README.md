@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/Ulbora/UlboraCacheService)](https://goreportcard.com/report/github.com/Ulbora/UlboraCacheService)
+
 Ulbora Cache Service
 ==============
 

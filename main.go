@@ -25,7 +25,7 @@ type cacheRes struct {
 }
 
 func main() {
-	c.NewCache(512 * 1024)
+	c.NewCache(512 * 4096)
 	fmt.Println("Cache Server running on port 3010!")
 	router := mux.NewRouter()
 	router.HandleFunc("/rs/cache/set", handleCacheSet).Methods("POST")
